@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Godswill Kalu
+# Author - Promise Adebayo
 
 for digit1 in range(0, 10):
     for digit2 in range(digit1 + 1, 10):
